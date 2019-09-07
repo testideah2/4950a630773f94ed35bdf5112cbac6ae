@@ -3,7 +3,7 @@
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "ru.solarfields.app"
     versionCode = "10"
-    version     = "1.2.0">
+    version     = "1.3.0">
 
 <name>ТЕСТ. SOLAR FIELDS</name>
 
@@ -38,12 +38,12 @@
 
 
 <platform name="android">
-    <icon src="res/android/icon/5803de5e74fd6a809226c3bc9a415d4b.png" density="ldpi" />
-    <icon src="res/android/icon/59b089ee6f5cf68c426defe5dac638bc.png" density="mdpi" />
-    <icon src="res/android/icon/2d20f45ca8b69bff1b854c6be0b2f665.png" density="hdpi" />
-    <icon src="res/android/icon/f57eb5dc9f94ed7b5875dca20e767001.png" density="xhdpi" />
-    <icon src="res/android/icon/104f218e0ec12ab4fd7635396757dbe5.png" density="xxhdpi" />
-    <icon src="res/android/icon/7dab95a3b9e94d2db42d7b0799063152.png" density="xxxhdpi" />
+    <icon src="res/android/icon/2617827d062e50ac48bd254a30e55375.png" density="ldpi" />
+    <icon src="res/android/icon/537aeed8dd1cce7bcd007d82b60571a2.png" density="mdpi" />
+    <icon src="res/android/icon/be2c1738a295d0cb5d1e322d3bcb5e8f.png" density="hdpi" />
+    <icon src="res/android/icon/7b1ea75d919541f1672e708a45e8a5a9.png" density="xhdpi" />
+    <icon src="res/android/icon/fabdf53be66553ac6a8f971c393dd3c6.png" density="xxhdpi" />
+    <icon src="res/android/icon/f2fbe7414127814830960d9bc2929a21.png" density="xxxhdpi" />
 
     <splash src="res/android/screen/8b869eb802bd2054d6d74bf00b1a1031.png" density="port-hdpi"/>
     <splash src="res/android/screen/73079f996cdc2f4e7dd7755fce566e78.png" density="port-ldpi"/>
@@ -52,20 +52,20 @@
 </platform>
 
 <platform name="ios">
-	<icon src="res/ios/icon/4d8ba2518f6bc42cad1f653d4d018223.png" width="180" height="180" />
-	<icon src="res/ios/icon/604254f48b549065421f7e785a963388.png" width="60" height="60" />
-	<icon src="res/ios/icon/89d64f9e52335335d0db7c32dc3ec76a.png" width="120" height="120" />
-	<icon src="res/ios/icon/2c4510bb5a3782faedcc4f53c06825b9.png" width="76" height="76" />
-	<icon src="res/ios/icon/a7650398dfcd1410fd2e2afa89813a2f.png" width="152" height="152" />
-	<icon src="res/ios/icon/3eb0ba3be15a67f5060c324c3bf7a808.png" width="57" height="57" />
-	<icon src="res/ios/icon/d9e8b1af060dda89d626fd0fc26745ea.png" width="114" height="114" />
-	<icon src="res/ios/icon/f6b20dfecede487d255e0f1f05348653.png" width="72" height="72" />
-	<icon src="res/ios/icon/04728292e315761fa447f92f92d92e7d.png" width="144" height="144" />
-	<icon src="res/ios/icon/78755164415ed40b9e3ab919da378736.png" width="167" height="167" />
-	<icon src="res/ios/icon/8c7a06949338ba399749b5fdd6e04f35.png" width="29" height="29" />
-	<icon src="res/ios/icon/9cbee8b3938a5f43c0a052fa2e5053d5.png" width="58" height="58" />
-	<icon src="res/ios/icon/dada1e90b43d01be69982b2ead561381.png" width="87" height="87" />
-	<icon src="res/ios/icon/a0384ec2c92a8129c3f9f5355054b403.png" width="167" height="167" />
+	<icon src="res/ios/icon/51b3dd9c0cd9e030f4a605f5af426424.png" width="180" height="180" />
+	<icon src="res/ios/icon/45b50aa0da1073e8ec08ada2f942d9ba.png" width="60" height="60" />
+	<icon src="res/ios/icon/fd30dfe510b330a47f9bcb6795b0d092.png" width="120" height="120" />
+	<icon src="res/ios/icon/8c2bbab35820b537c1a281709e602c79.png" width="76" height="76" />
+	<icon src="res/ios/icon/36a0d9ea7e2e96f78f669c781402b55b.png" width="152" height="152" />
+	<icon src="res/ios/icon/8b2b4f46a557a5a0f52c0e60913b015d.png" width="57" height="57" />
+	<icon src="res/ios/icon/1bf16021735a87a4b8ae6c4337a78295.png" width="114" height="114" />
+	<icon src="res/ios/icon/0b5ad3f7604cfbf021559fb9c50be630.png" width="72" height="72" />
+	<icon src="res/ios/icon/b0a4c4bb939c7917709a50754d975eaf.png" width="144" height="144" />
+	<icon src="res/ios/icon/eeeae521c47dd338692b2cac5441cb55.png" width="167" height="167" />
+	<icon src="res/ios/icon/dcef8aef96dddbf4c0503b9b135391ce.png" width="29" height="29" />
+	<icon src="res/ios/icon/ed5243fc450babd5824a663c0fe242fa.png" width="58" height="58" />
+	<icon src="res/ios/icon/c849aabe43428a63b9add2aaf4832502.png" width="87" height="87" />
+	<icon src="res/ios/icon/783b1bc553330b46398f3e33b5747610.png" width="167" height="167" />
 
 	<splash src="res/ios/screen/9b19700c20d0962cfee1435b7a610da0.png" />
     <splash src="res/ios/screen/e83bc345569ab20a2919672bea3acb4d.png" />
@@ -76,13 +76,13 @@
 </platform>
 
 <platform name="winphone">
-    <icon src="res/windows/icon/f79120f8bfe3151deed0f1db9d11a2c4.png" target="StoreLogo" />
-    <icon src="res/windows/icon/4d0c76d05dba742cdaf234a3a1e61794.png" target="Square30x30Logo" />
-    <icon src="res/windows/icon/93de06b77bec93984423c63446e4a836.png" target="Square44x44Logo" />
-    <icon src="res/windows/icon/60b320f6b375f403bfe24f02c70ed672.png" target="Square70x70Logo" />
-    <icon src="res/windows/icon/8f448e73d87190db7f82e099d1f3c9e7.png" target="Square71x71Logo" />
-    <icon src="res/windows/icon/e7ac8d8e270a9b29ba1597397f10be91.png" target="Square150x150Logo" />
-    <icon src="res/windows/icon/98ae1fe9460c8da586e28290258d3696.png" target="Square310x310Logo" />
+    <icon src="res/windows/icon/b106f44bdfbcb9c44907092512908689.png" target="StoreLogo" />
+    <icon src="res/windows/icon/2e6a0a6ea29afebafcab48713dcf9a2f.png" target="Square30x30Logo" />
+    <icon src="res/windows/icon/0b71fe8c78a344b35aac1583e353ec0d.png" target="Square44x44Logo" />
+    <icon src="res/windows/icon/5b51b16c2ab148fc747a1ed9658d16ee.png" target="Square70x70Logo" />
+    <icon src="res/windows/icon/2ae0cd98247299aeed204ae27332b9b2.png" target="Square71x71Logo" />
+    <icon src="res/windows/icon/30536e9fafd28bfd5b185ac3322021aa.png" target="Square150x150Logo" />
+    <icon src="res/windows/icon/c345ade8f5088480d0bc0b0c6c91f33a.png" target="Square310x310Logo" />
 
     <splash src="res/windows/screen/a34527662e50de431dfdfe99d3df12b8.png" target="SplashScreen"/>
     <splash src="res/windows/screen/6c17219e65cdb16924bda47851a40552.png" target="SplashScreenPhone"/>
